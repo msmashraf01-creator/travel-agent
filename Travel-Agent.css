@@ -1,0 +1,164 @@
+li{
+    float: left;
+}
+a{
+    display: left;
+    text-align: justify center;
+    justify-self: unset;
+    padding: 2%
+}
+
+
+a[target="_blank"]{
+    background-color: yellowgreen;
+}
+
+body{
+    background-image: url("travel-agant.jpg");
+    background-color: #faf8f8;
+    background-blend-mode: lighten;
+}
+    div.gallery{
+        margin: 6px;
+        border: 2px solid #ccc;
+        float: left;
+        width: 190px;
+    }
+    div.gallery:hover{
+        border: 2px solid #777;
+    }
+
+.container{
+    border: 10%;
+
+}
+
+
+
+
+body{
+    border: 20px; 
+    padding: 40px;
+    background-color: rgb(54, 17, 13);
+    background-position: center;
+    text-align-last: center;
+    text-justify: inter-word;
+
+}
+
+div{
+    padding-top: 1%;
+    padding-right: 2%;
+    padding-bottom: 3%;
+    padding-left: 4%;
+}
+
+
+
+.travel_agent_img{
+    border-radius: 10%;
+    width: 800px;
+    height: 500px;
+}
+
+
+p{
+    background-color: mistyrose;
+    color: rgb(135, 105, 96);
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    
+    
+}    
+
+   
+h1{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;font-weight: 500;
+    font-style: italic;
+    color: blanchedalmond;
+    justify-self: left;
+}
+
+
+.nav-bar{
+
+    text-align: justify;
+    justify-self: space-around;
+    lighting-color: azure;
+    text-align: right; 
+    
+}
+
+.nav-bar a:hover{
+    background-color: rgb(43, 226, 165);
+}
+
+
+
+
+
+
+
+
+.container{
+    border: 10%;
+
+}
+
+
+
+body{
+    border: 20px; 
+    justify-self: center;
+    background-color: aqua;
+    background-position: center;
+    text-align: center;
+}
+
+img{
+    width: 800px;
+    height: 500px;
+    border-radius: 40%;
+    justify-self: center;
+    align-items: end;
+    border: 20%;
+
+    }
+
+   
+
+.nav-bar{
+
+    text-align: justify;
+    justify-self: space-around;
+    lighting-color: azure;
+    text-align: right; 
+    
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    justify-self: center;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    justify-self: center;
+}
+p{
+    color: blue;
+}
+.nav-bar a:hover{
+    background-color: rgb(43, 226, 165);
+}
+.container{
+    border: 20%;
+    background-color: rgb(226, 43, 137);
+}
